@@ -1,0 +1,2 @@
+Ez az első feladat
+Számoljuk ki egy 3 cm oldalú négyzet területét!
